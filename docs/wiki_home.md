@@ -179,3 +179,7 @@ Once generated, embed the image here:
 ---
 
 Need improvements or have ideas? Open an issue or submit a PR!
+
+---
+
+_Maintained with ❤️ by Cagri Tas · [GitHub](https://github.com/cagritas/filesinfo) · [PyPI](https://pypi.org/project/filesinfo/)_
