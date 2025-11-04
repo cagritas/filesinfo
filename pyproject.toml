@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "filesinfo"
-version = "0.1.1"
+version = "0.1.2"
 description = "File extension metadata and platform selection utilities"
 readme = "README.md"
 requires-python = ">=3.9"

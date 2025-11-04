@@ -24,4 +24,4 @@ __all__ = [
     "get_platforms_for_extension",
 ]
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"

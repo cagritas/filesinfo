@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.1] - 2025-11-04
+## [0.1.2] - 2025-11-04
 
 ### Changed
 - Rewrote README in English and clarified CLI/API examples.
