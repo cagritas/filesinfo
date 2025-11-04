@@ -1,0 +1,8703 @@
+[
+  {
+    "ext": ".123",
+    "type": "MIME: application/vnd.lotus-1-2-3",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".1km",
+    "type": "MIME: application/vnd.1000minds.decision-model+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".210",
+    "type": "MIME: model/step",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".3dml",
+    "type": "MIME: text/vnd.in3d.3dml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".3ds",
+    "type": "MIME: image/x-3ds",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".3g2",
+    "type": "MIME: video/3gpp2",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".3gp",
+    "type": "MIME: video/3gpp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".3gpp",
+    "type": "MIME: audio/3gpp, video/3gpp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".3mf",
+    "type": "MIME: model/3mf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".7z",
+    "type": "MIME: application/x-7z-compressed",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".aab",
+    "type": "MIME: application/x-authorware-bin",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".aac",
+    "type": "MIME: audio/aac, audio/x-aac",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".aam",
+    "type": "MIME: application/x-authorware-map",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".aas",
+    "type": "MIME: application/x-authorware-seg",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".abw",
+    "type": "MIME: application/x-abiword",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ac",
+    "type": "MIME: application/pkix-attr-cert, application/vnd.nokia.n-gage.ac+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".acc",
+    "type": "MIME: application/vnd.americandynamics.acc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ace",
+    "type": "MIME: application/x-ace-compressed",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".acu",
+    "type": "MIME: application/vnd.acucobol",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".acutc",
+    "type": "MIME: application/vnd.acucorp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".adp",
+    "type": "MIME: audio/adpcm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".adts",
+    "type": "MIME: audio/aac",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".aep",
+    "type": "MIME: application/vnd.audiograph",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".afm",
+    "type": "MIME: application/x-font-type1",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".afp",
+    "type": "MIME: application/vnd.ibm.modcap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".age",
+    "type": "MIME: application/vnd.age",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ahead",
+    "type": "MIME: application/vnd.ahead.space",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ai",
+    "type": "MIME: application/postscript",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".aif",
+    "type": "MIME: audio/x-aiff",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".aifc",
+    "type": "MIME: audio/x-aiff",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".aiff",
+    "type": "MIME: audio/x-aiff",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".air",
+    "type": "MIME: application/vnd.adobe.air-application-installer-package+zip",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ait",
+    "type": "MIME: application/vnd.dvb.ait",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ami",
+    "type": "MIME: application/vnd.amiga.ami",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".aml",
+    "type": "MIME: application/automationml-aml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".amlx",
+    "type": "MIME: application/automationml-amlx+zip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".amr",
+    "type": "MIME: audio/amr",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".apk",
+    "type": "MIME: application/vnd.android.package-archive",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".apng",
+    "type": "MIME: image/apng",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".appcache",
+    "type": "MIME: text/cache-manifest",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".appinstaller",
+    "type": "MIME: application/appinstaller",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".application",
+    "type": "MIME: application/x-ms-application",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".appx",
+    "type": "MIME: application/appx",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".appxbundle",
+    "type": "MIME: application/appxbundle",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".apr",
+    "type": "MIME: application/vnd.lotus-approach",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".arc",
+    "type": "MIME: application/x-freearc",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".arj",
+    "type": "MIME: application/x-arj",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".asc",
+    "type": "MIME: application/pgp-keys, application/pgp-signature",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".asf",
+    "type": "MIME: video/x-ms-asf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".asm",
+    "type": "MIME: text/x-asm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".aso",
+    "type": "MIME: application/vnd.accpac.simply.aso",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".asx",
+    "type": "MIME: video/x-ms-asf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".atc",
+    "type": "MIME: application/vnd.acucorp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".atom",
+    "type": "MIME: application/atom+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".atomcat",
+    "type": "MIME: application/atomcat+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".atomdeleted",
+    "type": "MIME: application/atomdeleted+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".atomsvc",
+    "type": "MIME: application/atomsvc+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".atx",
+    "type": "MIME: application/vnd.antix.game-component",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".au",
+    "type": "MIME: audio/basic",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".avci",
+    "type": "MIME: image/avci",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".avcs",
+    "type": "MIME: image/avcs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".avi",
+    "type": "MIME: video/x-msvideo",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".avif",
+    "type": "MIME: image/avif",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".aw",
+    "type": "MIME: application/applixware",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".azf",
+    "type": "MIME: application/vnd.airzip.filesecure.azf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".azs",
+    "type": "MIME: application/vnd.airzip.filesecure.azs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".azv",
+    "type": "MIME: image/vnd.airzip.accelerator.azv",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".azw",
+    "type": "MIME: application/vnd.amazon.ebook",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".b16",
+    "type": "MIME: image/vnd.pco.b16",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".bary",
+    "type": "MIME: model/vnd.bary",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".bat",
+    "type": "MIME: application/x-msdownload",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".bcpio",
+    "type": "MIME: application/x-bcpio",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".bdf",
+    "type": "MIME: application/x-font-bdf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".bdm",
+    "type": "MIME: application/vnd.syncml.dm+wbxml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".bdo",
+    "type": "MIME: application/vnd.nato.bindingdataobject+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".bdoc",
+    "type": "MIME: application/bdoc, application/x-bdoc",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".bed",
+    "type": "MIME: application/vnd.realvnc.bed",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".bh2",
+    "type": "MIME: application/vnd.fujitsu.oasysprs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".bin",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".blb",
+    "type": "MIME: application/x-blorb",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".blend",
+    "type": "MIME: application/x-blender",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".blorb",
+    "type": "MIME: application/x-blorb",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".bmi",
+    "type": "MIME: application/vnd.bmi",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".bmml",
+    "type": "MIME: application/vnd.balsamiq.bmml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".bmp",
+    "type": "MIME: image/bmp, image/x-ms-bmp",
+    "os": "cross-platform",
+    "sources": "iana, nginx",
+    "compressible": "True"
+  },
+  {
+    "ext": ".book",
+    "type": "MIME: application/vnd.framemaker",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".box",
+    "type": "MIME: application/vnd.previewsystems.box",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".boz",
+    "type": "MIME: application/x-bzip2",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".bpk",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".brush",
+    "type": "MIME: application/vnd.procreate.brush",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".brushset",
+    "type": "MIME: application/vnd.procrate.brushset",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".bsp",
+    "type": "MIME: model/vnd.valve.source.compiled-map",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".btf",
+    "type": "MIME: image/prs.btif",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".btif",
+    "type": "MIME: image/prs.btif",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".buffer",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".bz",
+    "type": "MIME: application/x-bzip",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".bz2",
+    "type": "MIME: application/x-bzip2",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".c",
+    "type": "MIME: text/x-c",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".c11amc",
+    "type": "MIME: application/vnd.cluetrust.cartomobile-config",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".c11amz",
+    "type": "MIME: application/vnd.cluetrust.cartomobile-config-pkg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".c4d",
+    "type": "MIME: application/vnd.clonk.c4group",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".c4f",
+    "type": "MIME: application/vnd.clonk.c4group",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".c4g",
+    "type": "MIME: application/vnd.clonk.c4group",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".c4p",
+    "type": "MIME: application/vnd.clonk.c4group",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".c4u",
+    "type": "MIME: application/vnd.clonk.c4group",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cab",
+    "type": "MIME: application/vnd.ms-cab-compressed",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".caf",
+    "type": "MIME: audio/x-caf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".cap",
+    "type": "MIME: application/vnd.tcpdump.pcap",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".car",
+    "type": "MIME: application/vnd.curl.car",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cat",
+    "type": "MIME: application/vnd.ms-pki.seccat",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cb7",
+    "type": "MIME: application/x-cbr",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cba",
+    "type": "MIME: application/x-cbr",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cbr",
+    "type": "MIME: application/x-cbr",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cbt",
+    "type": "MIME: application/x-cbr",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cbz",
+    "type": "MIME: application/x-cbr",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cc",
+    "type": "MIME: text/x-c",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cco",
+    "type": "MIME: application/x-cocoa",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".cct",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ccxml",
+    "type": "MIME: application/ccxml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".cdbcmsg",
+    "type": "MIME: application/vnd.contact.cmsg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cdf",
+    "type": "MIME: application/x-netcdf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cdfx",
+    "type": "MIME: application/cdfx+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".cdkey",
+    "type": "MIME: application/vnd.mediastation.cdkey",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cdmia",
+    "type": "MIME: application/cdmi-capability",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cdmic",
+    "type": "MIME: application/cdmi-container",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cdmid",
+    "type": "MIME: application/cdmi-domain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cdmio",
+    "type": "MIME: application/cdmi-object",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cdmiq",
+    "type": "MIME: application/cdmi-queue",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cdx",
+    "type": "MIME: chemical/x-cdx",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cdxml",
+    "type": "MIME: application/vnd.chemdraw+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".cdy",
+    "type": "MIME: application/vnd.cinderella",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cer",
+    "type": "MIME: application/pkix-cert",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cfs",
+    "type": "MIME: application/x-cfs-compressed",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cgm",
+    "type": "MIME: image/cgm",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".chat",
+    "type": "MIME: application/x-chat",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".chm",
+    "type": "MIME: application/vnd.ms-htmlhelp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".chrt",
+    "type": "MIME: application/vnd.kde.kchart",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cif",
+    "type": "MIME: chemical/x-cif",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cii",
+    "type": "MIME: application/vnd.anser-web-certificate-issue-initiation",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cil",
+    "type": "MIME: application/vnd.ms-artgalry",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cjs",
+    "type": "MIME: application/node",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cla",
+    "type": "MIME: application/vnd.claymore",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".class",
+    "type": "MIME: application/java-vm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".cld",
+    "type": "MIME: model/vnd.cld",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".clkk",
+    "type": "MIME: application/vnd.crick.clicker.keyboard",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".clkp",
+    "type": "MIME: application/vnd.crick.clicker.palette",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".clkt",
+    "type": "MIME: application/vnd.crick.clicker.template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".clkw",
+    "type": "MIME: application/vnd.crick.clicker.wordbank",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".clkx",
+    "type": "MIME: application/vnd.crick.clicker",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".clp",
+    "type": "MIME: application/x-msclip",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cmc",
+    "type": "MIME: application/vnd.cosmocaller",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cmdf",
+    "type": "MIME: chemical/x-cmdf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cml",
+    "type": "MIME: chemical/x-cml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cmp",
+    "type": "MIME: application/vnd.yellowriver-custom-menu",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cmx",
+    "type": "MIME: image/x-cmx",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cod",
+    "type": "MIME: application/vnd.rim.cod",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".coffee",
+    "type": "MIME: text/coffeescript",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".com",
+    "type": "MIME: application/x-msdownload",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".conf",
+    "type": "MIME: text/plain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".cpio",
+    "type": "MIME: application/x-cpio",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cpl",
+    "type": "MIME: application/cpl+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".cpp",
+    "type": "MIME: text/x-c",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cpt",
+    "type": "MIME: application/mac-compactpro",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".crd",
+    "type": "MIME: application/x-mscardfile",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".crl",
+    "type": "MIME: application/pkix-crl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".crt",
+    "type": "MIME: application/x-x509-ca-cert",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".crx",
+    "type": "MIME: application/x-chrome-extension",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".cryptonote",
+    "type": "MIME: application/vnd.rig.cryptonote",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".csh",
+    "type": "MIME: application/x-csh",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".csl",
+    "type": "MIME: application/vnd.citationstyles.style+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".csml",
+    "type": "MIME: chemical/x-csml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".csp",
+    "type": "MIME: application/vnd.commonspace",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".css",
+    "type": "MIME: text/css",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".cst",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".csv",
+    "type": "MIME: text/csv",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".cu",
+    "type": "MIME: application/cu-seeme",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".curl",
+    "type": "MIME: text/vnd.curl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cwl",
+    "type": "MIME: application/cwl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cww",
+    "type": "MIME: application/prs.cww",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".cxt",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".cxx",
+    "type": "MIME: text/x-c",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".dae",
+    "type": "MIME: model/vnd.collada+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".daf",
+    "type": "MIME: application/vnd.mobius.daf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dart",
+    "type": "MIME: application/vnd.dart",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dataless",
+    "type": "MIME: application/vnd.fdsn.seed",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".davmount",
+    "type": "MIME: application/davmount+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dbf",
+    "type": "MIME: application/vnd.dbf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dbk",
+    "type": "MIME: application/docbook+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dcm",
+    "type": "MIME: application/dicom",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dcmp",
+    "type": "MIME: application/vnd.dcmp+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dcr",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".dcurl",
+    "type": "MIME: text/vnd.curl.dcurl",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".dd2",
+    "type": "MIME: application/vnd.oma.dd2+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ddd",
+    "type": "MIME: application/vnd.fujixerox.ddd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ddf",
+    "type": "MIME: application/vnd.syncml.dmddf+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dds",
+    "type": "MIME: image/vnd.ms-dds",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".deb",
+    "type": "MIME: application/octet-stream, application/x-debian-package",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".def",
+    "type": "MIME: text/plain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".deploy",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".der",
+    "type": "MIME: application/x-x509-ca-cert",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dfac",
+    "type": "MIME: application/vnd.dreamfactory",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dgc",
+    "type": "MIME: application/x-dgc-compressed",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".dib",
+    "type": "MIME: image/bmp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dic",
+    "type": "MIME: text/x-c",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".dir",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".dis",
+    "type": "MIME: application/vnd.mobius.dis",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".disposition-notification",
+    "type": "MIME: message/disposition-notification",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dist",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".distz",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".djv",
+    "type": "MIME: image/vnd.djvu",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".djvu",
+    "type": "MIME: image/vnd.djvu",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dll",
+    "type": "MIME: application/octet-stream, application/x-msdownload",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dmg",
+    "type": "MIME: application/octet-stream, application/x-apple-diskimage",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dmp",
+    "type": "MIME: application/vnd.tcpdump.pcap",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dms",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dna",
+    "type": "MIME: application/vnd.dna",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dng",
+    "type": "MIME: image/x-adobe-dng",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".doc",
+    "type": "MIME: application/msword",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".docm",
+    "type": "MIME: application/vnd.ms-word.document.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".docx",
+    "type": "MIME: application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".dot",
+    "type": "MIME: application/msword",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".dotm",
+    "type": "MIME: application/vnd.ms-word.template.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dotx",
+    "type": "MIME: application/vnd.openxmlformats-officedocument.wordprocessingml.template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dp",
+    "type": "MIME: application/vnd.osgi.dp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dpg",
+    "type": "MIME: application/vnd.dpgraph",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dpx",
+    "type": "MIME: image/dpx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dra",
+    "type": "MIME: audio/vnd.dra",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".drle",
+    "type": "MIME: image/dicom-rle",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".drm",
+    "type": "MIME: application/vnd.procreate.dream",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".dsc",
+    "type": "MIME: text/prs.lines.tag",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dssc",
+    "type": "MIME: application/dssc+der",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dtb",
+    "type": "MIME: application/x-dtbook+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dtd",
+    "type": "MIME: application/xml-dtd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dts",
+    "type": "MIME: audio/vnd.dts",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dtshd",
+    "type": "MIME: audio/vnd.dts.hd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dump",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dvb",
+    "type": "MIME: video/vnd.dvb.file",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dvi",
+    "type": "MIME: application/x-dvi",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".dwd",
+    "type": "MIME: application/atsc-dwd+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".dwf",
+    "type": "MIME: model/vnd.dwf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dwg",
+    "type": "MIME: image/vnd.dwg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dxf",
+    "type": "MIME: image/vnd.dxf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dxp",
+    "type": "MIME: application/vnd.spotfire.dxp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".dxr",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ear",
+    "type": "MIME: application/java-archive",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ecelp4800",
+    "type": "MIME: audio/vnd.nuera.ecelp4800",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ecelp7470",
+    "type": "MIME: audio/vnd.nuera.ecelp7470",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ecelp9600",
+    "type": "MIME: audio/vnd.nuera.ecelp9600",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ecma",
+    "type": "MIME: application/ecmascript",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".edm",
+    "type": "MIME: application/vnd.novadigm.edm",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".edx",
+    "type": "MIME: application/vnd.novadigm.edx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".efif",
+    "type": "MIME: application/vnd.picsel",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ei6",
+    "type": "MIME: application/vnd.pg.osasli",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".elc",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".emf",
+    "type": "MIME: application/x-msmetafile, image/emf",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": null
+  },
+  {
+    "ext": ".eml",
+    "type": "MIME: message/rfc822",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".emma",
+    "type": "MIME: application/emma+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".emotionml",
+    "type": "MIME: application/emotionml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".emz",
+    "type": "MIME: application/x-msmetafile",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".eol",
+    "type": "MIME: audio/vnd.digital-winds",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".eot",
+    "type": "MIME: application/vnd.ms-fontobject",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".eps",
+    "type": "MIME: application/postscript",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".epub",
+    "type": "MIME: application/epub+zip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".es3",
+    "type": "MIME: application/vnd.eszigno3+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".esa",
+    "type": "MIME: application/vnd.osgi.subsystem",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".esf",
+    "type": "MIME: application/vnd.epson.esf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".et3",
+    "type": "MIME: application/vnd.eszigno3+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".etx",
+    "type": "MIME: text/x-setext",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".eva",
+    "type": "MIME: application/x-eva",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".evy",
+    "type": "MIME: application/x-envoy",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".exe",
+    "type": "MIME: application/octet-stream, application/x-msdos-program, application/x-msdownload",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".exi",
+    "type": "MIME: application/exi",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".exp",
+    "type": "MIME: application/express",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".exr",
+    "type": "MIME: image/aces",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ext",
+    "type": "MIME: application/vnd.novadigm.ext",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ez",
+    "type": "MIME: application/andrew-inset",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ez2",
+    "type": "MIME: application/vnd.ezpix-album",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ez3",
+    "type": "MIME: application/vnd.ezpix-package",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".f",
+    "type": "MIME: text/x-fortran",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".f4v",
+    "type": "MIME: video/x-f4v",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".f77",
+    "type": "MIME: text/x-fortran",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".f90",
+    "type": "MIME: text/x-fortran",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".facti",
+    "type": "MIME: image/vnd.blockfact.facti",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fbs",
+    "type": "MIME: image/vnd.fastbidsheet",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fbx",
+    "type": "MIME: application/vnd.autodesk.fbx",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".fcdt",
+    "type": "MIME: application/vnd.adobe.formscentral.fcdt",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fcs",
+    "type": "MIME: application/vnd.isac.fcs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fdf",
+    "type": "MIME: application/fdf, application/vnd.fdf",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fdt",
+    "type": "MIME: application/fdt+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".fe_launch",
+    "type": "MIME: application/vnd.denovo.fcselayout-link",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fg5",
+    "type": "MIME: application/vnd.fujitsu.oasysgp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fgd",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fh",
+    "type": "MIME: image/x-freehand",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fh4",
+    "type": "MIME: image/x-freehand",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fh5",
+    "type": "MIME: image/x-freehand",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fh7",
+    "type": "MIME: image/x-freehand",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fhc",
+    "type": "MIME: image/x-freehand",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fig",
+    "type": "MIME: application/x-xfig",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fits",
+    "type": "MIME: image/fits",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".flac",
+    "type": "MIME: audio/x-flac",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fli",
+    "type": "MIME: video/x-fli",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".flo",
+    "type": "MIME: application/vnd.micrografx.flo",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".flv",
+    "type": "MIME: video/x-flv",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".flw",
+    "type": "MIME: application/vnd.kde.kivio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".flx",
+    "type": "MIME: text/vnd.fmi.flexstor",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fly",
+    "type": "MIME: text/vnd.fly",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fm",
+    "type": "MIME: application/vnd.framemaker",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fnc",
+    "type": "MIME: application/vnd.frogans.fnc",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fo",
+    "type": "MIME: application/vnd.software602.filler.form+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".for",
+    "type": "MIME: text/x-fortran",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fpx",
+    "type": "MIME: image/vnd.fpx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".frame",
+    "type": "MIME: application/vnd.framemaker",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fsc",
+    "type": "MIME: application/vnd.fsc.weblaunch",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fst",
+    "type": "MIME: image/vnd.fst",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ftc",
+    "type": "MIME: application/vnd.fluxtime.clip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fti",
+    "type": "MIME: application/vnd.anser-web-funds-transfer-initiation",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".fvt",
+    "type": "MIME: video/vnd.fvt",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fxp",
+    "type": "MIME: application/vnd.adobe.fxp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fxpl",
+    "type": "MIME: application/vnd.adobe.fxp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".fzs",
+    "type": "MIME: application/vnd.fuzzysheet",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".g2w",
+    "type": "MIME: application/vnd.geoplan",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".g3",
+    "type": "MIME: image/g3fax",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".g3w",
+    "type": "MIME: application/vnd.geospace",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gac",
+    "type": "MIME: application/vnd.groove-account",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gam",
+    "type": "MIME: application/x-tads",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".gbr",
+    "type": "MIME: application/rpki-ghostbusters",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gca",
+    "type": "MIME: application/x-gca-compressed",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".gdl",
+    "type": "MIME: model/vnd.gdl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gdoc",
+    "type": "MIME: application/vnd.google-apps.document",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".gdraw",
+    "type": "MIME: application/vnd.google-apps.drawing",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ged",
+    "type": "MIME: text/vnd.familysearch.gedcom",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".geo",
+    "type": "MIME: application/vnd.dynageo",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".geojson",
+    "type": "MIME: application/geo+json",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".gex",
+    "type": "MIME: application/vnd.geometry-explorer",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gform",
+    "type": "MIME: application/vnd.google-apps.form",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ggb",
+    "type": "MIME: application/vnd.geogebra.file",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ggs",
+    "type": "MIME: application/vnd.geogebra.slides",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ggt",
+    "type": "MIME: application/vnd.geogebra.tool",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ghf",
+    "type": "MIME: application/vnd.groove-help",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gif",
+    "type": "MIME: image/gif",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".gim",
+    "type": "MIME: application/vnd.groove-identity-message",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gjam",
+    "type": "MIME: application/vnd.google-apps.jam",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".glb",
+    "type": "MIME: model/gltf-binary",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".gltf",
+    "type": "MIME: model/gltf+json",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".gmap",
+    "type": "MIME: application/vnd.google-apps.map",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".gml",
+    "type": "MIME: application/gml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".gmx",
+    "type": "MIME: application/vnd.gmx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gnumeric",
+    "type": "MIME: application/x-gnumeric",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".gph",
+    "type": "MIME: application/vnd.flographit",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gpx",
+    "type": "MIME: application/gpx+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".gqf",
+    "type": "MIME: application/vnd.grafeq",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gqs",
+    "type": "MIME: application/vnd.grafeq",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gram",
+    "type": "MIME: application/srgs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gramps",
+    "type": "MIME: application/x-gramps-xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".gre",
+    "type": "MIME: application/vnd.geometry-explorer",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".grv",
+    "type": "MIME: application/vnd.groove-injector",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".grxml",
+    "type": "MIME: application/srgs+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".gscript",
+    "type": "MIME: application/vnd.google-apps.script",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".gsf",
+    "type": "MIME: application/x-font-ghostscript",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".gsheet",
+    "type": "MIME: application/vnd.google-apps.spreadsheet",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".gsite",
+    "type": "MIME: application/vnd.google-apps.site",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".gslides",
+    "type": "MIME: application/vnd.google-apps.presentation",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".gtar",
+    "type": "MIME: application/x-gtar",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".gtm",
+    "type": "MIME: application/vnd.groove-tool-message",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gtw",
+    "type": "MIME: model/vnd.gtw",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gv",
+    "type": "MIME: text/vnd.graphviz",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gxf",
+    "type": "MIME: application/gxf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".gxt",
+    "type": "MIME: application/vnd.geonext",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".gz",
+    "type": "MIME: application/gzip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".h",
+    "type": "MIME: text/x-c",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".h261",
+    "type": "MIME: video/h261",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".h263",
+    "type": "MIME: video/h263",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".h264",
+    "type": "MIME: video/h264",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".hal",
+    "type": "MIME: application/vnd.hal+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".hbci",
+    "type": "MIME: application/vnd.hbci",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".hbs",
+    "type": "MIME: text/x-handlebars-template",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".hdd",
+    "type": "MIME: application/x-virtualbox-hdd",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".hdf",
+    "type": "MIME: application/x-hdf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".heic",
+    "type": "MIME: image/heic",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".heics",
+    "type": "MIME: image/heic-sequence",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".heif",
+    "type": "MIME: image/heif",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".heifs",
+    "type": "MIME: image/heif-sequence",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".hej2",
+    "type": "MIME: image/hej2k",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".held",
+    "type": "MIME: application/atsc-held+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".hh",
+    "type": "MIME: text/x-c",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".hjson",
+    "type": "MIME: application/hjson",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".hlp",
+    "type": "MIME: application/winhlp",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".hpgl",
+    "type": "MIME: application/vnd.hp-hpgl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".hpid",
+    "type": "MIME: application/vnd.hp-hpid",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".hps",
+    "type": "MIME: application/vnd.hp-hps",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".hqx",
+    "type": "MIME: application/mac-binhex40",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".htc",
+    "type": "MIME: text/x-component",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".htke",
+    "type": "MIME: application/vnd.kenameaapp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".htm",
+    "type": "MIME: text/html",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".html",
+    "type": "MIME: text/html",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".hvd",
+    "type": "MIME: application/vnd.yamaha.hv-dic",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".hvp",
+    "type": "MIME: application/vnd.yamaha.hv-voice",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".hvs",
+    "type": "MIME: application/vnd.yamaha.hv-script",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".i2g",
+    "type": "MIME: application/vnd.intergeo",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".icc",
+    "type": "MIME: application/vnd.iccprofile",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ice",
+    "type": "MIME: x-conference/x-cooltalk",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".icm",
+    "type": "MIME: application/vnd.iccprofile",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ico",
+    "type": "MIME: image/vnd.microsoft.icon, image/x-icon",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ics",
+    "type": "MIME: text/calendar",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ief",
+    "type": "MIME: image/ief",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ifb",
+    "type": "MIME: text/calendar",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ifm",
+    "type": "MIME: application/vnd.shana.informed.formdata",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".iges",
+    "type": "MIME: model/iges",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".igl",
+    "type": "MIME: application/vnd.igloader",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".igm",
+    "type": "MIME: application/vnd.insors.igm",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".igs",
+    "type": "MIME: model/iges",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".igx",
+    "type": "MIME: application/vnd.micrografx.igx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".iif",
+    "type": "MIME: application/vnd.shana.informed.interchange",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".img",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".imp",
+    "type": "MIME: application/vnd.accpac.simply.imp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ims",
+    "type": "MIME: application/vnd.ms-ims",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".in",
+    "type": "MIME: text/plain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ini",
+    "type": "MIME: text/plain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ink",
+    "type": "MIME: application/inkml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".inkml",
+    "type": "MIME: application/inkml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".install",
+    "type": "MIME: application/x-install-instructions",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".iota",
+    "type": "MIME: application/vnd.astraea-software.iota",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ipfix",
+    "type": "MIME: application/ipfix",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ipk",
+    "type": "MIME: application/vnd.shana.informed.package",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ipynb",
+    "type": "MIME: application/x-ipynb+json",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".irm",
+    "type": "MIME: application/vnd.ibm.rights-management",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".irp",
+    "type": "MIME: application/vnd.irepository.package+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".iso",
+    "type": "MIME: application/octet-stream, application/x-iso9660-image",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".itp",
+    "type": "MIME: application/vnd.shana.informed.formtemplate",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".its",
+    "type": "MIME: application/its+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ivp",
+    "type": "MIME: application/vnd.immervision-ivp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ivu",
+    "type": "MIME: application/vnd.immervision-ivu",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jad",
+    "type": "MIME: text/vnd.sun.j2me.app-descriptor",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jade",
+    "type": "MIME: text/jade",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".jaii",
+    "type": "MIME: image/jaii",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jais",
+    "type": "MIME: image/jais",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jam",
+    "type": "MIME: application/vnd.jam",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jar",
+    "type": "MIME: application/java-archive",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jardiff",
+    "type": "MIME: application/x-java-archive-diff",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".java",
+    "type": "MIME: text/x-java-source",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".jfif",
+    "type": "MIME: image/pjpeg",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jhc",
+    "type": "MIME: image/jphc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jisp",
+    "type": "MIME: application/vnd.jisp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jls",
+    "type": "MIME: image/jls",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jlt",
+    "type": "MIME: application/vnd.hp-jlyt",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jng",
+    "type": "MIME: image/x-jng",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".jnlp",
+    "type": "MIME: application/x-java-jnlp-file",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".joda",
+    "type": "MIME: application/vnd.joost.joda-archive",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jp2",
+    "type": "MIME: image/jp2",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jpe",
+    "type": "MIME: image/jpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jpeg",
+    "type": "MIME: image/jpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jpf",
+    "type": "MIME: image/jpx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jpg",
+    "type": "MIME: image/jpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jpg2",
+    "type": "MIME: image/jp2",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jpgm",
+    "type": "MIME: image/jpm, video/jpm",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jpgv",
+    "type": "MIME: video/jpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jph",
+    "type": "MIME: image/jph",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jpm",
+    "type": "MIME: image/jpm, video/jpm",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".jpx",
+    "type": "MIME: image/jpx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".js",
+    "type": "MIME: application/javascript, text/javascript",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".json",
+    "type": "MIME: application/json",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".json5",
+    "type": "MIME: application/json5",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".jsonld",
+    "type": "MIME: application/ld+json",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".jsonml",
+    "type": "MIME: application/jsonml+json",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".jsx",
+    "type": "MIME: text/jsx",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".jt",
+    "type": "MIME: model/jt",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jxl",
+    "type": "MIME: image/jxl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jxr",
+    "type": "MIME: image/jxr",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jxra",
+    "type": "MIME: image/jxra",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jxrs",
+    "type": "MIME: image/jxrs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jxs",
+    "type": "MIME: image/jxs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jxsc",
+    "type": "MIME: image/jxsc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jxsi",
+    "type": "MIME: image/jxsi",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".jxss",
+    "type": "MIME: image/jxss",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kar",
+    "type": "MIME: audio/midi",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".karbon",
+    "type": "MIME: application/vnd.kde.karbon",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kbl",
+    "type": "MIME: application/kbl+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".kdbx",
+    "type": "MIME: application/x-keepass2",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".key",
+    "type": "MIME: application/vnd.apple.keynote, application/x-iwork-keynote-sffkey",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kfo",
+    "type": "MIME: application/vnd.kde.kformula",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kia",
+    "type": "MIME: application/vnd.kidspiration",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kml",
+    "type": "MIME: application/vnd.google-earth.kml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".kmz",
+    "type": "MIME: application/vnd.google-earth.kmz",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".kne",
+    "type": "MIME: application/vnd.kinar",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".knp",
+    "type": "MIME: application/vnd.kinar",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kon",
+    "type": "MIME: application/vnd.kde.kontour",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kpr",
+    "type": "MIME: application/vnd.kde.kpresenter",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kpt",
+    "type": "MIME: application/vnd.kde.kpresenter",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kpxx",
+    "type": "MIME: application/vnd.ds-keypoint",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ksp",
+    "type": "MIME: application/vnd.kde.kspread",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ktr",
+    "type": "MIME: application/vnd.kahootz",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ktx",
+    "type": "MIME: image/ktx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ktx2",
+    "type": "MIME: image/ktx2",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ktz",
+    "type": "MIME: application/vnd.kahootz",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kwd",
+    "type": "MIME: application/vnd.kde.kword",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".kwt",
+    "type": "MIME: application/vnd.kde.kword",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".lasxml",
+    "type": "MIME: application/vnd.las.las+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".latex",
+    "type": "MIME: application/x-latex",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".lbd",
+    "type": "MIME: application/vnd.llamagraphics.life-balance.desktop",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".lbe",
+    "type": "MIME: application/vnd.llamagraphics.life-balance.exchange+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".les",
+    "type": "MIME: application/vnd.hhe.lesson-player",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".less",
+    "type": "MIME: text/less",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".lgr",
+    "type": "MIME: application/lgr+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".lha",
+    "type": "MIME: application/x-lzh-compressed",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".link66",
+    "type": "MIME: application/vnd.route66.link66+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".list",
+    "type": "MIME: text/plain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".list3820",
+    "type": "MIME: application/vnd.ibm.modcap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".listafp",
+    "type": "MIME: application/vnd.ibm.modcap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".litcoffee",
+    "type": "MIME: text/coffeescript",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".lnk",
+    "type": "MIME: application/x-ms-shortcut",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".log",
+    "type": "MIME: text/plain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".lostxml",
+    "type": "MIME: application/lost+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".lottie",
+    "type": "MIME: application/zip+dotlottie",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".lrf",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".lrm",
+    "type": "MIME: application/vnd.ms-lrm",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ltf",
+    "type": "MIME: application/vnd.frogans.ltf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".lua",
+    "type": "MIME: text/x-lua",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".luac",
+    "type": "MIME: application/x-lua-bytecode",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".lvp",
+    "type": "MIME: audio/vnd.lucent.voice",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".lwp",
+    "type": "MIME: application/vnd.lotus-wordpro",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".lzh",
+    "type": "MIME: application/x-lzh-compressed",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".m13",
+    "type": "MIME: application/x-msmediaview",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".m14",
+    "type": "MIME: application/x-msmediaview",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".m1v",
+    "type": "MIME: video/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".m21",
+    "type": "MIME: application/mp21",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".m2a",
+    "type": "MIME: audio/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".m2t",
+    "type": "MIME: video/mp2t",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".m2ts",
+    "type": "MIME: video/mp2t",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".m2v",
+    "type": "MIME: video/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".m3a",
+    "type": "MIME: audio/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".m3u",
+    "type": "MIME: audio/x-mpegurl",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".m3u8",
+    "type": "MIME: application/vnd.apple.mpegurl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".m4a",
+    "type": "MIME: audio/mp4, audio/x-m4a",
+    "os": "cross-platform",
+    "sources": "iana, nginx",
+    "compressible": "False"
+  },
+  {
+    "ext": ".m4b",
+    "type": "MIME: audio/mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".m4p",
+    "type": "MIME: application/mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".m4s",
+    "type": "MIME: video/iso.segment",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".m4u",
+    "type": "MIME: video/vnd.mpegurl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".m4v",
+    "type": "MIME: video/x-m4v",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ma",
+    "type": "MIME: application/mathematica",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mads",
+    "type": "MIME: application/mads+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".maei",
+    "type": "MIME: application/mmt-aei+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mag",
+    "type": "MIME: application/vnd.ecowin.chart",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".maker",
+    "type": "MIME: application/vnd.framemaker",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".man",
+    "type": "MIME: text/troff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".manifest",
+    "type": "MIME: text/cache-manifest",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".map",
+    "type": "MIME: application/json",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mar",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".markdown",
+    "type": "MIME: text/markdown",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mathml",
+    "type": "MIME: application/mathml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mb",
+    "type": "MIME: application/mathematica",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mbk",
+    "type": "MIME: application/vnd.mobius.mbk",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mbox",
+    "type": "MIME: application/mbox",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mc1",
+    "type": "MIME: application/vnd.medcalcdata",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mcd",
+    "type": "MIME: application/vnd.mcd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mcurl",
+    "type": "MIME: text/vnd.curl.mcurl",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".md",
+    "type": "MIME: text/markdown",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mdb",
+    "type": "MIME: application/x-msaccess",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mdi",
+    "type": "MIME: image/vnd.ms-modi",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mdx",
+    "type": "MIME: text/mdx",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".me",
+    "type": "MIME: text/troff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mesh",
+    "type": "MIME: model/mesh",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".meta4",
+    "type": "MIME: application/metalink4+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".metalink",
+    "type": "MIME: application/metalink+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mets",
+    "type": "MIME: application/mets+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mfm",
+    "type": "MIME: application/vnd.mfmp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mft",
+    "type": "MIME: application/rpki-manifest",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mgp",
+    "type": "MIME: application/vnd.osgeo.mapguide.package",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mgz",
+    "type": "MIME: application/vnd.proteus.magazine",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mht",
+    "type": "MIME: message/rfc822",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mhtml",
+    "type": "MIME: message/rfc822",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mid",
+    "type": "MIME: audio/midi",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".midi",
+    "type": "MIME: audio/midi",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mie",
+    "type": "MIME: application/x-mie",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mif",
+    "type": "MIME: application/vnd.mif",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mime",
+    "type": "MIME: message/rfc822",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mj2",
+    "type": "MIME: video/mj2",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mjp2",
+    "type": "MIME: video/mj2",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mjs",
+    "type": "MIME: text/javascript",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mk3d",
+    "type": "MIME: video/x-matroska",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mka",
+    "type": "MIME: audio/x-matroska",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mkd",
+    "type": "MIME: text/x-markdown",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mks",
+    "type": "MIME: video/x-matroska",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mkv",
+    "type": "MIME: video/x-matroska",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mlp",
+    "type": "MIME: application/vnd.dolby.mlp",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mmd",
+    "type": "MIME: application/vnd.chipnuts.karaoke-mmd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mmf",
+    "type": "MIME: application/vnd.smaf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mml",
+    "type": "MIME: text/mathml",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".mmr",
+    "type": "MIME: image/vnd.fujixerox.edmics-mmr",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mng",
+    "type": "MIME: video/x-mng",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mny",
+    "type": "MIME: application/x-msmoney",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mobi",
+    "type": "MIME: application/x-mobipocket-ebook",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mods",
+    "type": "MIME: application/mods+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mov",
+    "type": "MIME: video/quicktime",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".movie",
+    "type": "MIME: video/x-sgi-movie",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mp2",
+    "type": "MIME: audio/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mp21",
+    "type": "MIME: application/mp21",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mp2a",
+    "type": "MIME: audio/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mp3",
+    "type": "MIME: audio/mp3, audio/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mp4",
+    "type": "MIME: application/mp4, video/mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mp4a",
+    "type": "MIME: audio/mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mp4s",
+    "type": "MIME: application/mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mp4v",
+    "type": "MIME: video/mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mpc",
+    "type": "MIME: application/vnd.mophun.certificate",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mpd",
+    "type": "MIME: application/dash+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mpe",
+    "type": "MIME: video/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mpeg",
+    "type": "MIME: video/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mpf",
+    "type": "MIME: application/media-policy-dataset+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mpg",
+    "type": "MIME: video/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mpg4",
+    "type": "MIME: application/mp4, video/mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mpga",
+    "type": "MIME: audio/mpeg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".mpkg",
+    "type": "MIME: application/vnd.apple.installer+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mpm",
+    "type": "MIME: application/vnd.blueice.multipass",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mpn",
+    "type": "MIME: application/vnd.mophun.application",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mpp",
+    "type": "MIME: application/dash-patch+xml, application/vnd.ms-project",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mpt",
+    "type": "MIME: application/vnd.ms-project",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mpy",
+    "type": "MIME: application/vnd.ibm.minipay",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mqy",
+    "type": "MIME: application/vnd.mobius.mqy",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mrc",
+    "type": "MIME: application/marc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mrcx",
+    "type": "MIME: application/marcxml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ms",
+    "type": "MIME: text/troff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mscml",
+    "type": "MIME: application/mediaservercontrol+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mseed",
+    "type": "MIME: application/vnd.fdsn.mseed",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mseq",
+    "type": "MIME: application/vnd.mseq",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".msf",
+    "type": "MIME: application/vnd.epson.msf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".msg",
+    "type": "MIME: application/vnd.ms-outlook",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".msh",
+    "type": "MIME: model/mesh",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".msi",
+    "type": "MIME: application/octet-stream, application/x-msdownload",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".msix",
+    "type": "MIME: application/msix",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".msixbundle",
+    "type": "MIME: application/msixbundle",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".msl",
+    "type": "MIME: application/vnd.mobius.msl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".msm",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".msp",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".msty",
+    "type": "MIME: application/vnd.muvee.style",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mtl",
+    "type": "MIME: model/mtl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mts",
+    "type": "MIME: model/vnd.mts, video/mp2t",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mus",
+    "type": "MIME: application/vnd.musician",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".musd",
+    "type": "MIME: application/mmt-usd+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".musicxml",
+    "type": "MIME: application/vnd.recordare.musicxml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mvb",
+    "type": "MIME: application/x-msmediaview",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".mvt",
+    "type": "MIME: application/vnd.mapbox-vector-tile",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mwf",
+    "type": "MIME: application/vnd.mfer",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mxf",
+    "type": "MIME: application/mxf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mxl",
+    "type": "MIME: application/vnd.recordare.musicxml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mxmf",
+    "type": "MIME: audio/mobile-xmf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mxml",
+    "type": "MIME: application/xv+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".mxs",
+    "type": "MIME: application/vnd.triscape.mxs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".mxu",
+    "type": "MIME: video/vnd.mpegurl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".n-gage",
+    "type": "MIME: application/vnd.nokia.n-gage.symbian.install",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".n3",
+    "type": "MIME: text/n3",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".nb",
+    "type": "MIME: application/mathematica",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nbp",
+    "type": "MIME: application/vnd.wolfram.player",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nc",
+    "type": "MIME: application/x-netcdf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ncx",
+    "type": "MIME: application/x-dtbncx+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".nfo",
+    "type": "MIME: text/x-nfo",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ngdat",
+    "type": "MIME: application/vnd.nokia.n-gage.data",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nitf",
+    "type": "MIME: application/vnd.nitf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nlu",
+    "type": "MIME: application/vnd.neurolanguage.nlu",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nml",
+    "type": "MIME: application/vnd.enliven",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nnd",
+    "type": "MIME: application/vnd.noblenet-directory",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nns",
+    "type": "MIME: application/vnd.noblenet-sealer",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nnw",
+    "type": "MIME: application/vnd.noblenet-web",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".npx",
+    "type": "MIME: image/vnd.net-fpx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nq",
+    "type": "MIME: application/n-quads",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nsc",
+    "type": "MIME: application/x-conference",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".nsf",
+    "type": "MIME: application/vnd.lotus-notes",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nt",
+    "type": "MIME: application/n-triples",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ntf",
+    "type": "MIME: application/vnd.nitf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".numbers",
+    "type": "MIME: application/vnd.apple.numbers, application/x-iwork-numbers-sffnumbers",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".nzb",
+    "type": "MIME: application/x-nzb",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".oa2",
+    "type": "MIME: application/vnd.fujitsu.oasys2",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".oa3",
+    "type": "MIME: application/vnd.fujitsu.oasys3",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".oas",
+    "type": "MIME: application/vnd.fujitsu.oasys",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".obd",
+    "type": "MIME: application/x-msbinder",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".obgx",
+    "type": "MIME: application/vnd.openblox.game+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".obj",
+    "type": "MIME: application/x-tgif, model/obj",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": null
+  },
+  {
+    "ext": ".oda",
+    "type": "MIME: application/oda",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".odb",
+    "type": "MIME: application/vnd.oasis.opendocument.database",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".odc",
+    "type": "MIME: application/vnd.oasis.opendocument.chart",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".odf",
+    "type": "MIME: application/vnd.oasis.opendocument.formula",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".odft",
+    "type": "MIME: application/vnd.oasis.opendocument.formula-template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".odg",
+    "type": "MIME: application/vnd.oasis.opendocument.graphics",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".odi",
+    "type": "MIME: application/vnd.oasis.opendocument.image",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".odm",
+    "type": "MIME: application/vnd.oasis.opendocument.text-master",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".odp",
+    "type": "MIME: application/vnd.oasis.opendocument.presentation",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ods",
+    "type": "MIME: application/vnd.oasis.opendocument.spreadsheet",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".odt",
+    "type": "MIME: application/vnd.oasis.opendocument.text",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".oga",
+    "type": "MIME: audio/ogg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ogex",
+    "type": "MIME: model/vnd.opengex",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ogg",
+    "type": "MIME: audio/ogg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ogv",
+    "type": "MIME: video/ogg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ogx",
+    "type": "MIME: application/ogg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".omdoc",
+    "type": "MIME: application/omdoc+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".one",
+    "type": "MIME: application/onenote",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".onea",
+    "type": "MIME: application/onenote",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".onepkg",
+    "type": "MIME: application/onenote",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".onetmp",
+    "type": "MIME: application/onenote",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".onetoc",
+    "type": "MIME: application/onenote",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".onetoc2",
+    "type": "MIME: application/onenote",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".opf",
+    "type": "MIME: application/oebps-package+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".opml",
+    "type": "MIME: text/x-opml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".oprc",
+    "type": "MIME: application/vnd.palm",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".opus",
+    "type": "MIME: audio/ogg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".org",
+    "type": "MIME: application/vnd.lotus-organizer, text/x-org",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".osf",
+    "type": "MIME: application/vnd.yamaha.openscoreformat",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".osfpvg",
+    "type": "MIME: application/vnd.yamaha.openscoreformat.osfpvg+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".osm",
+    "type": "MIME: application/vnd.openstreetmap.data+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".otc",
+    "type": "MIME: application/vnd.oasis.opendocument.chart-template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".otf",
+    "type": "MIME: font/otf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".otg",
+    "type": "MIME: application/vnd.oasis.opendocument.graphics-template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".oth",
+    "type": "MIME: application/vnd.oasis.opendocument.text-web",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".oti",
+    "type": "MIME: application/vnd.oasis.opendocument.image-template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".otp",
+    "type": "MIME: application/vnd.oasis.opendocument.presentation-template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ots",
+    "type": "MIME: application/vnd.oasis.opendocument.spreadsheet-template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ott",
+    "type": "MIME: application/vnd.oasis.opendocument.text-template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ova",
+    "type": "MIME: application/x-virtualbox-ova",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ovf",
+    "type": "MIME: application/x-virtualbox-ovf",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".owl",
+    "type": "MIME: application/rdf+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".oxps",
+    "type": "MIME: application/oxps",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".oxt",
+    "type": "MIME: application/vnd.openofficeorg.extension",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".p",
+    "type": "MIME: text/x-pascal",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".p10",
+    "type": "MIME: application/pkcs10",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".p12",
+    "type": "MIME: application/x-pkcs12",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".p21",
+    "type": "MIME: model/step",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".p7b",
+    "type": "MIME: application/x-pkcs7-certificates",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".p7c",
+    "type": "MIME: application/pkcs7-mime",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".p7m",
+    "type": "MIME: application/pkcs7-mime",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".p7r",
+    "type": "MIME: application/x-pkcs7-certreqresp",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".p7s",
+    "type": "MIME: application/pkcs7-signature",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".p8",
+    "type": "MIME: application/pkcs8",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pac",
+    "type": "MIME: application/x-ns-proxy-autoconfig",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".pages",
+    "type": "MIME: application/vnd.apple.pages, application/x-iwork-pages-sffpages",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pas",
+    "type": "MIME: text/x-pascal",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".paw",
+    "type": "MIME: application/vnd.pawaafile",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pbd",
+    "type": "MIME: application/vnd.powerbuilder6",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pbm",
+    "type": "MIME: image/x-portable-bitmap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pcap",
+    "type": "MIME: application/vnd.tcpdump.pcap",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pcf",
+    "type": "MIME: application/x-font-pcf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pcl",
+    "type": "MIME: application/vnd.hp-pcl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pclxl",
+    "type": "MIME: application/vnd.hp-pclxl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pct",
+    "type": "MIME: image/x-pict",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pcurl",
+    "type": "MIME: application/vnd.curl.pcurl",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pcx",
+    "type": "MIME: image/vnd.zbrush.pcx, image/x-pcx",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pdb",
+    "type": "MIME: application/vnd.palm, application/x-pilot",
+    "os": "cross-platform",
+    "sources": "iana, nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".pde",
+    "type": "MIME: text/x-processing",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".pdf",
+    "type": "MIME: application/pdf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".pem",
+    "type": "MIME: application/x-x509-ca-cert",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pfa",
+    "type": "MIME: application/x-font-type1",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pfb",
+    "type": "MIME: application/x-font-type1",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pfm",
+    "type": "MIME: application/x-font-type1",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pfr",
+    "type": "MIME: application/font-tdpfr",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pfx",
+    "type": "MIME: application/x-pkcs12",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".pgm",
+    "type": "MIME: image/x-portable-graymap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pgn",
+    "type": "MIME: application/x-chess-pgn",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pgp",
+    "type": "MIME: application/pgp-encrypted",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".php",
+    "type": "MIME: application/x-httpd-php",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".pic",
+    "type": "MIME: image/x-pict",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pkg",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".pki",
+    "type": "MIME: application/pkixcmp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pkipath",
+    "type": "MIME: application/pkix-pkipath",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pkpass",
+    "type": "MIME: application/vnd.apple.pkpass",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".pl",
+    "type": "MIME: application/x-perl",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".plb",
+    "type": "MIME: application/vnd.3gpp.pic-bw-large",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".plc",
+    "type": "MIME: application/vnd.mobius.plc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".plf",
+    "type": "MIME: application/vnd.pocketlearn",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pls",
+    "type": "MIME: application/pls+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".pm",
+    "type": "MIME: application/x-perl",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".pml",
+    "type": "MIME: application/vnd.ctc-posml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".png",
+    "type": "MIME: image/png",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".pnm",
+    "type": "MIME: image/x-portable-anymap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".portpkg",
+    "type": "MIME: application/vnd.macports.portpkg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pot",
+    "type": "MIME: application/vnd.ms-powerpoint",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".potm",
+    "type": "MIME: application/vnd.ms-powerpoint.template.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".potx",
+    "type": "MIME: application/vnd.openxmlformats-officedocument.presentationml.template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ppam",
+    "type": "MIME: application/vnd.ms-powerpoint.addin.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ppd",
+    "type": "MIME: application/vnd.cups-ppd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ppm",
+    "type": "MIME: image/x-portable-pixmap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pps",
+    "type": "MIME: application/vnd.ms-powerpoint",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ppsm",
+    "type": "MIME: application/vnd.ms-powerpoint.slideshow.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ppsx",
+    "type": "MIME: application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ppt",
+    "type": "MIME: application/vnd.ms-powerpoint",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".pptm",
+    "type": "MIME: application/vnd.ms-powerpoint.presentation.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pptx",
+    "type": "MIME: application/vnd.openxmlformats-officedocument.presentationml.presentation",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".pqa",
+    "type": "MIME: application/vnd.palm",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".prc",
+    "type": "MIME: application/x-mobipocket-ebook, application/x-pilot, model/prc",
+    "os": "cross-platform",
+    "sources": "apache, iana, nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".pre",
+    "type": "MIME: application/vnd.lotus-freelance",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".prf",
+    "type": "MIME: application/pics-rules",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".provx",
+    "type": "MIME: application/provenance+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ps",
+    "type": "MIME: application/postscript",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".psb",
+    "type": "MIME: application/vnd.3gpp.pic-bw-small",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".psd",
+    "type": "MIME: image/vnd.adobe.photoshop",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".psf",
+    "type": "MIME: application/x-font-linux-psf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pskcxml",
+    "type": "MIME: application/pskc+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".pti",
+    "type": "MIME: image/prs.pti",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ptid",
+    "type": "MIME: application/vnd.pvi.ptid1",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pub",
+    "type": "MIME: application/x-mspublisher",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".pvb",
+    "type": "MIME: application/vnd.3gpp.pic-bw-var",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pwn",
+    "type": "MIME: application/vnd.3m.post-it-notes",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pya",
+    "type": "MIME: audio/vnd.ms-playready.media.pya",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pyo",
+    "type": "MIME: model/vnd.pytha.pyox",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pyox",
+    "type": "MIME: model/vnd.pytha.pyox",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".pyv",
+    "type": "MIME: video/vnd.ms-playready.media.pyv",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qam",
+    "type": "MIME: application/vnd.epson.quickanime",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qbo",
+    "type": "MIME: application/vnd.intu.qbo",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qfx",
+    "type": "MIME: application/vnd.intu.qfx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qps",
+    "type": "MIME: application/vnd.publishare-delta-tree",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qt",
+    "type": "MIME: video/quicktime",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".qwd",
+    "type": "MIME: application/vnd.quark.quarkxpress",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qwt",
+    "type": "MIME: application/vnd.quark.quarkxpress",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qxb",
+    "type": "MIME: application/vnd.quark.quarkxpress",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qxd",
+    "type": "MIME: application/vnd.quark.quarkxpress",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qxl",
+    "type": "MIME: application/vnd.quark.quarkxpress",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".qxt",
+    "type": "MIME: application/vnd.quark.quarkxpress",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ra",
+    "type": "MIME: audio/x-pn-realaudio, audio/x-realaudio",
+    "os": "cross-platform",
+    "sources": "apache, nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".ram",
+    "type": "MIME: audio/x-pn-realaudio",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".raml",
+    "type": "MIME: application/raml+yaml",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rapd",
+    "type": "MIME: application/route-apd+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rar",
+    "type": "MIME: application/vnd.rar, application/x-compressed, application/x-rar-compressed",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ras",
+    "type": "MIME: image/x-cmu-raster",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".rcprofile",
+    "type": "MIME: application/vnd.ipunplugged.rcprofile",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rdf",
+    "type": "MIME: application/rdf+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rdz",
+    "type": "MIME: application/vnd.data-vision.rdz",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".relo",
+    "type": "MIME: application/p2p-overlay+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rep",
+    "type": "MIME: application/vnd.businessobjects",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".res",
+    "type": "MIME: application/x-dtbresource+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rgb",
+    "type": "MIME: image/x-rgb",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".rif",
+    "type": "MIME: application/reginfo+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rip",
+    "type": "MIME: audio/vnd.rip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ris",
+    "type": "MIME: application/x-research-info-systems",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".rl",
+    "type": "MIME: application/resource-lists+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rlc",
+    "type": "MIME: image/vnd.fujixerox.edmics-rlc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rld",
+    "type": "MIME: application/resource-lists-diff+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rm",
+    "type": "MIME: application/vnd.rn-realmedia",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".rmi",
+    "type": "MIME: audio/midi",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".rmp",
+    "type": "MIME: audio/x-pn-realaudio-plugin",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".rms",
+    "type": "MIME: application/vnd.jcp.javame.midlet-rms",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rmvb",
+    "type": "MIME: application/vnd.rn-realmedia-vbr",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".rnc",
+    "type": "MIME: application/relax-ng-compact-syntax",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rng",
+    "type": "MIME: application/xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".roa",
+    "type": "MIME: application/rpki-roa",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".roff",
+    "type": "MIME: text/troff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rp9",
+    "type": "MIME: application/vnd.cloanto.rp9",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rpm",
+    "type": "MIME: application/x-redhat-package-manager",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".rpss",
+    "type": "MIME: application/vnd.nokia.radio-presets",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rpst",
+    "type": "MIME: application/vnd.nokia.radio-preset",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rq",
+    "type": "MIME: application/sparql-query",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".rs",
+    "type": "MIME: application/rls-services+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rsat",
+    "type": "MIME: application/atsc-rsat+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rsd",
+    "type": "MIME: application/rsd+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rsheet",
+    "type": "MIME: application/urc-ressheet+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rss",
+    "type": "MIME: application/rss+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rtf",
+    "type": "MIME: application/rtf, text/rtf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".rtx",
+    "type": "MIME: text/richtext",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".run",
+    "type": "MIME: application/x-makeself",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".rusd",
+    "type": "MIME: application/route-usd+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".s",
+    "type": "MIME: text/x-asm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".s3m",
+    "type": "MIME: audio/s3m",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".saf",
+    "type": "MIME: application/vnd.yamaha.smaf-audio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sass",
+    "type": "MIME: text/x-sass",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".sbml",
+    "type": "MIME: application/sbml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".sc",
+    "type": "MIME: application/vnd.ibm.secure-container",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".scd",
+    "type": "MIME: application/x-msschedule",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".scm",
+    "type": "MIME: application/vnd.lotus-screencam",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".scq",
+    "type": "MIME: application/scvp-cv-request",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".scs",
+    "type": "MIME: application/scvp-cv-response",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".scss",
+    "type": "MIME: text/x-scss",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".scurl",
+    "type": "MIME: text/vnd.curl.scurl",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sda",
+    "type": "MIME: application/vnd.stardivision.draw",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sdc",
+    "type": "MIME: application/vnd.stardivision.calc",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sdd",
+    "type": "MIME: application/vnd.stardivision.impress",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sdkd",
+    "type": "MIME: application/vnd.solent.sdkm+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".sdkm",
+    "type": "MIME: application/vnd.solent.sdkm+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".sdp",
+    "type": "MIME: application/sdp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sdw",
+    "type": "MIME: application/vnd.stardivision.writer",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sea",
+    "type": "MIME: application/x-sea",
+    "os": "cross-platform",
+    "sources": "nginx",
+    "compressible": null
+  },
+  {
+    "ext": ".see",
+    "type": "MIME: application/vnd.seemail",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".seed",
+    "type": "MIME: application/vnd.fdsn.seed",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sema",
+    "type": "MIME: application/vnd.sema",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".semd",
+    "type": "MIME: application/vnd.semd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".semf",
+    "type": "MIME: application/vnd.semf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".senmlx",
+    "type": "MIME: application/senml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".sensmlx",
+    "type": "MIME: application/sensml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ser",
+    "type": "MIME: application/java-serialized-object",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".setpay",
+    "type": "MIME: application/set-payment-initiation",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".setreg",
+    "type": "MIME: application/set-registration-initiation",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sfd-hdstx",
+    "type": "MIME: application/vnd.hydrostatix.sof-data",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sfs",
+    "type": "MIME: application/vnd.spotfire.sfs",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sfv",
+    "type": "MIME: text/x-sfv",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sgi",
+    "type": "MIME: image/sgi",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sgl",
+    "type": "MIME: application/vnd.stardivision.writer-global",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sgm",
+    "type": "MIME: text/sgml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sgml",
+    "type": "MIME: text/sgml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sh",
+    "type": "MIME: application/x-sh",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".shar",
+    "type": "MIME: application/x-shar",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".shex",
+    "type": "MIME: text/shex",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".shf",
+    "type": "MIME: application/shf+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".shtml",
+    "type": "MIME: text/html",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".sid",
+    "type": "MIME: image/x-mrsid-image",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sieve",
+    "type": "MIME: application/sieve",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sig",
+    "type": "MIME: application/pgp-signature",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sil",
+    "type": "MIME: audio/silk",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".silo",
+    "type": "MIME: model/mesh",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".sis",
+    "type": "MIME: application/vnd.symbian.install",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sisx",
+    "type": "MIME: application/vnd.symbian.install",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sit",
+    "type": "MIME: application/x-stuffit",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".sitx",
+    "type": "MIME: application/x-stuffitx",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".siv",
+    "type": "MIME: application/sieve",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".skd",
+    "type": "MIME: application/vnd.koan",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".skm",
+    "type": "MIME: application/vnd.koan",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".skp",
+    "type": "MIME: application/vnd.koan",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".skt",
+    "type": "MIME: application/vnd.koan",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sldm",
+    "type": "MIME: application/vnd.ms-powerpoint.slide.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sldx",
+    "type": "MIME: application/vnd.openxmlformats-officedocument.presentationml.slide",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".slim",
+    "type": "MIME: text/slim",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".slm",
+    "type": "MIME: text/slim",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".sls",
+    "type": "MIME: application/route-s-tsid+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".slt",
+    "type": "MIME: application/vnd.epson.salt",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sm",
+    "type": "MIME: application/vnd.stepmania.stepchart",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".smf",
+    "type": "MIME: application/vnd.stardivision.math",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".smi",
+    "type": "MIME: application/smil+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".smil",
+    "type": "MIME: application/smil+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".smv",
+    "type": "MIME: video/x-smv",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".smzip",
+    "type": "MIME: application/vnd.stepmania.package",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".snd",
+    "type": "MIME: audio/basic",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".snf",
+    "type": "MIME: application/x-font-snf",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".so",
+    "type": "MIME: application/octet-stream",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".spc",
+    "type": "MIME: application/x-pkcs7-certificates",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".spdx",
+    "type": "MIME: text/spdx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".spf",
+    "type": "MIME: application/vnd.yamaha.smaf-phrase",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".spl",
+    "type": "MIME: application/x-futuresplash",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".spot",
+    "type": "MIME: text/vnd.in3d.spot",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".spp",
+    "type": "MIME: application/scvp-vp-response",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".spq",
+    "type": "MIME: application/scvp-vp-request",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".spx",
+    "type": "MIME: audio/ogg",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".sql",
+    "type": "MIME: application/sql, application/x-sql",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": null
+  },
+  {
+    "ext": ".src",
+    "type": "MIME: application/x-wais-source",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".srt",
+    "type": "MIME: application/x-subrip",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sru",
+    "type": "MIME: application/sru+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".srx",
+    "type": "MIME: application/sparql-results+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ssdl",
+    "type": "MIME: application/ssdl+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".sse",
+    "type": "MIME: application/vnd.kodak-descriptor",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ssf",
+    "type": "MIME: application/vnd.epson.ssf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ssml",
+    "type": "MIME: application/ssml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".st",
+    "type": "MIME: application/vnd.sailingtracker.track",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".stc",
+    "type": "MIME: application/vnd.sun.xml.calc.template",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".std",
+    "type": "MIME: application/vnd.sun.xml.draw.template",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".step",
+    "type": "MIME: model/step",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".stf",
+    "type": "MIME: application/vnd.wt.stf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sti",
+    "type": "MIME: application/vnd.sun.xml.impress.template",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".stk",
+    "type": "MIME: application/hyperstudio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".stl",
+    "type": "MIME: application/vnd.ms-pki.stl, model/stl",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": null
+  },
+  {
+    "ext": ".stp",
+    "type": "MIME: model/step",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".stpnc",
+    "type": "MIME: model/step",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".stpx",
+    "type": "MIME: model/step+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".stpxz",
+    "type": "MIME: model/step-xml+zip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".stpz",
+    "type": "MIME: model/step+zip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".str",
+    "type": "MIME: application/vnd.pg.format",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".stw",
+    "type": "MIME: application/vnd.sun.xml.writer.template",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".styl",
+    "type": "MIME: text/stylus",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".stylus",
+    "type": "MIME: text/stylus",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".sub",
+    "type": "MIME: image/vnd.dvb.subtitle, text/vnd.dvb.subtitle",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sus",
+    "type": "MIME: application/vnd.sus-calendar",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".susp",
+    "type": "MIME: application/vnd.sus-calendar",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".sv4cpio",
+    "type": "MIME: application/x-sv4cpio",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sv4crc",
+    "type": "MIME: application/x-sv4crc",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".svc",
+    "type": "MIME: application/vnd.dvb.service",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".svd",
+    "type": "MIME: application/vnd.svd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".svg",
+    "type": "MIME: image/svg+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".svgz",
+    "type": "MIME: image/svg+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".swa",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".swf",
+    "type": "MIME: application/x-shockwave-flash",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".swi",
+    "type": "MIME: application/vnd.aristanetworks.swi",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".swidtag",
+    "type": "MIME: application/swid+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".sxc",
+    "type": "MIME: application/vnd.sun.xml.calc",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sxd",
+    "type": "MIME: application/vnd.sun.xml.draw",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sxg",
+    "type": "MIME: application/vnd.sun.xml.writer.global",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sxi",
+    "type": "MIME: application/vnd.sun.xml.impress",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sxm",
+    "type": "MIME: application/vnd.sun.xml.math",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".sxw",
+    "type": "MIME: application/vnd.sun.xml.writer",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".systemverify",
+    "type": "MIME: application/vnd.pp.systemverify+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".t",
+    "type": "MIME: text/troff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".t3",
+    "type": "MIME: application/x-t3vm-image",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".t38",
+    "type": "MIME: image/t38",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".taglet",
+    "type": "MIME: application/vnd.mynfc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tao",
+    "type": "MIME: application/vnd.tao.intent-module-archive",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tap",
+    "type": "MIME: image/vnd.tencent.tap",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tar",
+    "type": "MIME: application/x-tar",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".tcap",
+    "type": "MIME: application/vnd.3gpp2.tcap",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tcl",
+    "type": "MIME: application/x-tcl",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".td",
+    "type": "MIME: application/urc-targetdesc+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".teacher",
+    "type": "MIME: application/vnd.smart.teacher",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tei",
+    "type": "MIME: application/tei+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".teicorpus",
+    "type": "MIME: application/tei+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".tex",
+    "type": "MIME: application/x-tex",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".texi",
+    "type": "MIME: application/x-texinfo",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".texinfo",
+    "type": "MIME: application/x-texinfo",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".text",
+    "type": "MIME: text/plain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".tfi",
+    "type": "MIME: application/thraud+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".tfm",
+    "type": "MIME: application/x-tex-tfm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".tfx",
+    "type": "MIME: image/tiff-fx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tga",
+    "type": "MIME: image/x-tga",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".thmx",
+    "type": "MIME: application/vnd.ms-officetheme",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tif",
+    "type": "MIME: image/tiff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".tiff",
+    "type": "MIME: image/tiff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".tk",
+    "type": "MIME: application/x-tcl",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".tmo",
+    "type": "MIME: application/vnd.tmobile-livetv",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".toml",
+    "type": "MIME: application/toml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".torrent",
+    "type": "MIME: application/x-bittorrent",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".tpl",
+    "type": "MIME: application/vnd.groove-tool-template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tpt",
+    "type": "MIME: application/vnd.trid.tpt",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tr",
+    "type": "MIME: text/troff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tra",
+    "type": "MIME: application/vnd.trueapp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".trig",
+    "type": "MIME: application/trig",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".trm",
+    "type": "MIME: application/x-msterminal",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ts",
+    "type": "MIME: video/mp2t",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tsd",
+    "type": "MIME: application/timestamped-data",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".tsv",
+    "type": "MIME: text/tab-separated-values",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ttc",
+    "type": "MIME: font/collection",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ttf",
+    "type": "MIME: font/ttf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ttl",
+    "type": "MIME: text/turtle",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ttml",
+    "type": "MIME: application/ttml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".twd",
+    "type": "MIME: application/vnd.simtech-mindmapper",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".twds",
+    "type": "MIME: application/vnd.simtech-mindmapper",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".txd",
+    "type": "MIME: application/vnd.genomatix.tuxedo",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".txf",
+    "type": "MIME: application/vnd.mobius.txf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".txt",
+    "type": "MIME: text/plain",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".u32",
+    "type": "MIME: application/x-authorware-bin",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".u3d",
+    "type": "MIME: model/u3d",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".u8dsn",
+    "type": "MIME: message/global-delivery-status",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".u8hdr",
+    "type": "MIME: message/global-headers",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".u8mdn",
+    "type": "MIME: message/global-disposition-notification",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".u8msg",
+    "type": "MIME: message/global",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ubj",
+    "type": "MIME: application/ubjson",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".udeb",
+    "type": "MIME: application/x-debian-package",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".ufd",
+    "type": "MIME: application/vnd.ufdl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ufdl",
+    "type": "MIME: application/vnd.ufdl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".ulx",
+    "type": "MIME: application/x-glulx",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".umj",
+    "type": "MIME: application/vnd.umajin",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".unityweb",
+    "type": "MIME: application/vnd.unity",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uo",
+    "type": "MIME: application/vnd.uoml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".uoml",
+    "type": "MIME: application/vnd.uoml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".uri",
+    "type": "MIME: text/uri-list",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".uris",
+    "type": "MIME: text/uri-list",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".urls",
+    "type": "MIME: text/uri-list",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".usda",
+    "type": "MIME: model/vnd.usda",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".usdz",
+    "type": "MIME: model/vnd.usdz+zip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".ustar",
+    "type": "MIME: application/x-ustar",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".utz",
+    "type": "MIME: application/vnd.uiq.theme",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uu",
+    "type": "MIME: text/x-uuencode",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".uva",
+    "type": "MIME: audio/vnd.dece.audio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvd",
+    "type": "MIME: application/vnd.dece.data",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvf",
+    "type": "MIME: application/vnd.dece.data",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvg",
+    "type": "MIME: image/vnd.dece.graphic",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvh",
+    "type": "MIME: video/vnd.dece.hd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvi",
+    "type": "MIME: image/vnd.dece.graphic",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvm",
+    "type": "MIME: video/vnd.dece.mobile",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvp",
+    "type": "MIME: video/vnd.dece.pd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvs",
+    "type": "MIME: video/vnd.dece.sd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvt",
+    "type": "MIME: application/vnd.dece.ttml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".uvu",
+    "type": "MIME: video/vnd.uvvu.mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvv",
+    "type": "MIME: video/vnd.dece.video",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvva",
+    "type": "MIME: audio/vnd.dece.audio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvd",
+    "type": "MIME: application/vnd.dece.data",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvf",
+    "type": "MIME: application/vnd.dece.data",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvg",
+    "type": "MIME: image/vnd.dece.graphic",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvh",
+    "type": "MIME: video/vnd.dece.hd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvi",
+    "type": "MIME: image/vnd.dece.graphic",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvm",
+    "type": "MIME: video/vnd.dece.mobile",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvp",
+    "type": "MIME: video/vnd.dece.pd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvs",
+    "type": "MIME: video/vnd.dece.sd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvt",
+    "type": "MIME: application/vnd.dece.ttml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".uvvu",
+    "type": "MIME: video/vnd.uvvu.mp4",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvv",
+    "type": "MIME: video/vnd.dece.video",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvx",
+    "type": "MIME: application/vnd.dece.unspecified",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvvz",
+    "type": "MIME: application/vnd.dece.zip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvx",
+    "type": "MIME: application/vnd.dece.unspecified",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".uvz",
+    "type": "MIME: application/vnd.dece.zip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vbox",
+    "type": "MIME: application/x-virtualbox-vbox",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".vbox-extpack",
+    "type": "MIME: application/x-virtualbox-vbox-extpack",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "False"
+  },
+  {
+    "ext": ".vcard",
+    "type": "MIME: text/vcard",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".vcd",
+    "type": "MIME: application/x-cdlink",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".vcf",
+    "type": "MIME: text/x-vcard",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".vcg",
+    "type": "MIME: application/vnd.groove-vcard",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vcs",
+    "type": "MIME: text/x-vcalendar",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".vcx",
+    "type": "MIME: application/vnd.vcx",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vdi",
+    "type": "MIME: application/x-virtualbox-vdi",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".vds",
+    "type": "MIME: model/vnd.sap.vds",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vdx",
+    "type": "MIME: application/vnd.ms-visio.viewer",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": null
+  },
+  {
+    "ext": ".vec",
+    "type": "MIME: application/vec+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".vhd",
+    "type": "MIME: application/x-virtualbox-vhd",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".vis",
+    "type": "MIME: application/vnd.visionary",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".viv",
+    "type": "MIME: video/vnd.vivo",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vmdk",
+    "type": "MIME: application/x-virtualbox-vmdk",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".vob",
+    "type": "MIME: video/x-ms-vob",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".vor",
+    "type": "MIME: application/vnd.stardivision.writer",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".vox",
+    "type": "MIME: application/x-authorware-bin",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".vrml",
+    "type": "MIME: model/vrml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".vsd",
+    "type": "MIME: application/vnd.visio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vsdx",
+    "type": "MIME: application/vnd.visio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vsf",
+    "type": "MIME: application/vnd.vsf",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vss",
+    "type": "MIME: application/vnd.visio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vst",
+    "type": "MIME: application/vnd.visio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vsw",
+    "type": "MIME: application/vnd.visio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vtf",
+    "type": "MIME: image/vnd.valve.source.texture",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vtt",
+    "type": "MIME: text/vtt",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".vtu",
+    "type": "MIME: model/vnd.vtu",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vtx",
+    "type": "MIME: application/vnd.visio",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".vxml",
+    "type": "MIME: application/voicexml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".w3d",
+    "type": "MIME: application/x-director",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".wad",
+    "type": "MIME: application/x-doom",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".wadl",
+    "type": "MIME: application/vnd.sun.wadl+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".war",
+    "type": "MIME: application/java-archive",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".wasm",
+    "type": "MIME: application/wasm",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".wav",
+    "type": "MIME: audio/wav, audio/wave, audio/x-wav",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".wax",
+    "type": "MIME: audio/x-ms-wax",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".wbmp",
+    "type": "MIME: image/vnd.wap.wbmp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wbs",
+    "type": "MIME: application/vnd.criticaltools.wbs+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".wbxml",
+    "type": "MIME: application/vnd.wap.wbxml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wcm",
+    "type": "MIME: application/vnd.ms-works",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wdb",
+    "type": "MIME: application/vnd.ms-works",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wdp",
+    "type": "MIME: image/vnd.ms-photo",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".weba",
+    "type": "MIME: audio/webm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".webapp",
+    "type": "MIME: application/x-web-app-manifest+json",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".webm",
+    "type": "MIME: video/webm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".webmanifest",
+    "type": "MIME: application/manifest+json",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".webp",
+    "type": "MIME: image/webp",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wg",
+    "type": "MIME: application/vnd.pmi.widget",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wgsl",
+    "type": "MIME: text/wgsl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wgt",
+    "type": "MIME: application/widget",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wif",
+    "type": "MIME: application/watcherinfo+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".wks",
+    "type": "MIME: application/vnd.ms-works",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wm",
+    "type": "MIME: video/x-ms-wm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".wma",
+    "type": "MIME: audio/x-ms-wma",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".wmd",
+    "type": "MIME: application/x-ms-wmd",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".wmf",
+    "type": "MIME: application/x-msmetafile, image/wmf",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wml",
+    "type": "MIME: text/vnd.wap.wml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wmlc",
+    "type": "MIME: application/vnd.wap.wmlc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wmls",
+    "type": "MIME: text/vnd.wap.wmlscript",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wmlsc",
+    "type": "MIME: application/vnd.wap.wmlscriptc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wmv",
+    "type": "MIME: video/x-ms-wmv",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".wmx",
+    "type": "MIME: video/x-ms-wmx",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".wmz",
+    "type": "MIME: application/x-ms-wmz, application/x-msmetafile",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".woff",
+    "type": "MIME: font/woff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".woff2",
+    "type": "MIME: font/woff2",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wpd",
+    "type": "MIME: application/vnd.wordperfect",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wpl",
+    "type": "MIME: application/vnd.ms-wpl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wps",
+    "type": "MIME: application/vnd.ms-works",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wqd",
+    "type": "MIME: application/vnd.wqd",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wri",
+    "type": "MIME: application/x-mswrite",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".wrl",
+    "type": "MIME: model/vrml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".wsc",
+    "type": "MIME: message/vnd.wfa.wsc",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wsdl",
+    "type": "MIME: application/wsdl+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".wspolicy",
+    "type": "MIME: application/wspolicy+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".wtb",
+    "type": "MIME: application/vnd.webturbo",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".wvx",
+    "type": "MIME: video/x-ms-wvx",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".x32",
+    "type": "MIME: application/x-authorware-bin",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".x3d",
+    "type": "MIME: model/x3d+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".x3db",
+    "type": "MIME: model/x3d+binary, model/x3d+fastinfoset",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".x3dbz",
+    "type": "MIME: model/x3d+binary",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".x3dv",
+    "type": "MIME: model/x3d+vrml, model/x3d-vrml",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".x3dvz",
+    "type": "MIME: model/x3d+vrml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".x3dz",
+    "type": "MIME: model/x3d+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".x_b",
+    "type": "MIME: model/vnd.parasolid.transmit.binary",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".x_t",
+    "type": "MIME: model/vnd.parasolid.transmit.text",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xaml",
+    "type": "MIME: application/xaml+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xap",
+    "type": "MIME: application/x-silverlight-app",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".xar",
+    "type": "MIME: application/vnd.xara",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xav",
+    "type": "MIME: application/xcap-att+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xbap",
+    "type": "MIME: application/x-ms-xbap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".xbd",
+    "type": "MIME: application/vnd.fujixerox.docuworks.binder",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xbm",
+    "type": "MIME: image/x-xbitmap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".xca",
+    "type": "MIME: application/xcap-caps+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xcs",
+    "type": "MIME: application/calendar+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xdcf",
+    "type": "MIME: application/vnd.gov.sk.xmldatacontainer+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xdf",
+    "type": "MIME: application/xcap-diff+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xdm",
+    "type": "MIME: application/vnd.syncml.dm+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xdp",
+    "type": "MIME: application/vnd.adobe.xdp+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xdssc",
+    "type": "MIME: application/dssc+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xdw",
+    "type": "MIME: application/vnd.fujixerox.docuworks",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xel",
+    "type": "MIME: application/xcap-el+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xenc",
+    "type": "MIME: application/xenc+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xer",
+    "type": "MIME: application/patch-ops-error+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xfdf",
+    "type": "MIME: application/vnd.adobe.xfdf, application/xfdf",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xfdl",
+    "type": "MIME: application/vnd.xfdl",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xht",
+    "type": "MIME: application/xhtml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xhtm",
+    "type": "MIME: application/vnd.pwg-xhtml-print+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xhtml",
+    "type": "MIME: application/xhtml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xhvml",
+    "type": "MIME: application/xv+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xif",
+    "type": "MIME: image/vnd.xiff",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xla",
+    "type": "MIME: application/vnd.ms-excel",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xlam",
+    "type": "MIME: application/vnd.ms-excel.addin.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xlc",
+    "type": "MIME: application/vnd.ms-excel",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xlf",
+    "type": "MIME: application/x-xliff+xml, application/xliff+xml",
+    "os": "cross-platform",
+    "sources": "apache, iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xlm",
+    "type": "MIME: application/vnd.ms-excel",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xls",
+    "type": "MIME: application/vnd.ms-excel",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xlsb",
+    "type": "MIME: application/vnd.ms-excel.sheet.binary.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xlsm",
+    "type": "MIME: application/vnd.ms-excel.sheet.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xlsx",
+    "type": "MIME: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xlt",
+    "type": "MIME: application/vnd.ms-excel",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xltm",
+    "type": "MIME: application/vnd.ms-excel.template.macroenabled.12",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xltx",
+    "type": "MIME: application/vnd.openxmlformats-officedocument.spreadsheetml.template",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xlw",
+    "type": "MIME: application/vnd.ms-excel",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xm",
+    "type": "MIME: audio/xm",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".xml",
+    "type": "MIME: application/xml, text/xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xns",
+    "type": "MIME: application/xcap-ns+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xo",
+    "type": "MIME: application/vnd.olpc-sugar",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xop",
+    "type": "MIME: application/xop+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xpi",
+    "type": "MIME: application/x-xpinstall",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xpl",
+    "type": "MIME: application/xproc+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xpm",
+    "type": "MIME: image/x-xpixmap",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".xpr",
+    "type": "MIME: application/vnd.is-xpr",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xps",
+    "type": "MIME: application/vnd.ms-xpsdocument",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".xpw",
+    "type": "MIME: application/vnd.intercon.formnet",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xpx",
+    "type": "MIME: application/vnd.intercon.formnet",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".xsd",
+    "type": "MIME: application/xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xsf",
+    "type": "MIME: application/prs.xsf+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xsl",
+    "type": "MIME: application/xml, application/xslt+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xslt",
+    "type": "MIME: application/xslt+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xsm",
+    "type": "MIME: application/vnd.syncml+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xspf",
+    "type": "MIME: application/xspf+xml",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xul",
+    "type": "MIME: application/vnd.mozilla.xul+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xvm",
+    "type": "MIME: application/xv+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xvml",
+    "type": "MIME: application/xv+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".xwd",
+    "type": "MIME: image/x-xwindowdump",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".xyz",
+    "type": "MIME: chemical/x-xyz",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".xz",
+    "type": "MIME: application/x-xz",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".yaml",
+    "type": "MIME: text/yaml",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".yang",
+    "type": "MIME: application/yang",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".yin",
+    "type": "MIME: application/yin+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".yml",
+    "type": "MIME: text/yaml",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".ymp",
+    "type": "MIME: text/x-suse-ymp",
+    "os": "cross-platform",
+    "sources": "unknown",
+    "compressible": "True"
+  },
+  {
+    "ext": ".z1",
+    "type": "MIME: application/x-zmachine",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".z2",
+    "type": "MIME: application/x-zmachine",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".z3",
+    "type": "MIME: application/x-zmachine",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".z4",
+    "type": "MIME: application/x-zmachine",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".z5",
+    "type": "MIME: application/x-zmachine",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".z6",
+    "type": "MIME: application/x-zmachine",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".z7",
+    "type": "MIME: application/x-zmachine",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".z8",
+    "type": "MIME: application/x-zmachine",
+    "os": "cross-platform",
+    "sources": "apache",
+    "compressible": null
+  },
+  {
+    "ext": ".zaz",
+    "type": "MIME: application/vnd.zzazz.deck+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  },
+  {
+    "ext": ".zip",
+    "type": "MIME: application/x-zip-compressed, application/zip",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "False"
+  },
+  {
+    "ext": ".zir",
+    "type": "MIME: application/vnd.zul",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".zirz",
+    "type": "MIME: application/vnd.zul",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": null
+  },
+  {
+    "ext": ".zmm",
+    "type": "MIME: application/vnd.handheld-entertainment+xml",
+    "os": "cross-platform",
+    "sources": "iana",
+    "compressible": "True"
+  }
+]

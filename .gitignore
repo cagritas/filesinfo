@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors and OS
+.DS_Store
+*.swp
+*.swo
+.pypirc
+
+# Local data cache
+filesinfo/data/external_extensions.json.backup
