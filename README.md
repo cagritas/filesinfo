@@ -1,5 +1,7 @@
 # FilesInfo
 
+[![CI](https://github.com/cagritas/filesinfo/actions/workflows/ci.yml/badge.svg)](https://github.com/cagritas/filesinfo/actions/workflows/ci.yml)
+
 FilesInfo is a Python toolkit for mapping file extensions to rich metadata and recommended execution platforms. It ships with an extensive extension catalog, powerful lookup helpers, and a convenient CLI for exploring the data.
 
 ## Installation
@@ -17,6 +19,9 @@ The installation exposes the `filesinfo` command-line tool automatically.
 ```bash
 # Inspect platform recommendations for file names
 filesinfo payload.exe archive.tar.gz
+
+# Output in JSON format for automated systems
+filesinfo payload.exe archive.tar.gz --json
 
 # List extensions supported on specific platforms
 filesinfo --platform windows --platform linux --include-cross-platform
@@ -41,6 +46,17 @@ print(file_info_expert("payload.exe"))
 print(get_extensions_for_platform("linux", include_cross_platform=False)[:10])
 ```
 
+## Developer Commands (Makefile)
+
+For developers contributing to this repository, a `Makefile` is provided to easily install dev dependencies, run tests, and format code:
+
+```bash
+make install  # Installs the package with [dev] dependencies
+make test     # Runs the unittest suite
+make lint     # Runs ruff and black check
+make format   # Automatically formats the codebase with ruff and black
+```
+
 ## Updating the Dataset
 
 Regenerate the MIME-driven extension dataset whenever you want the latest upstream metadata:
@@ -50,11 +66,3 @@ python3 scripts/update_extension_dataset.py
 ```
 
 The command writes a fresh `filesinfo/data/external_extensions.json` file that is packaged with the library.
-
-## Tests
-
-```bash
-python3 -m unittest
-```
-
-The test suite verifies the core lookups, platform alias behaviour, and integration with the external dataset.

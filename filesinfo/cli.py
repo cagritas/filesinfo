@@ -1,7 +1,10 @@
 """Command-line entry point for the FilesInfo package."""
 
+from __future__ import annotations
+
 import argparse
-from pprint import pprint
+import json
+from typing import Any, List, Optional, Tuple
 
 from . import (
     file_info_expert,
@@ -11,7 +14,7 @@ from . import (
 )
 
 
-def resolve_names(filenames):
+def resolve_names(filenames: List[str]) -> List[Tuple[str, List[str]]]:
     results = []
     for name in filenames:
         platforms = file_info_expert(name)
@@ -19,7 +22,11 @@ def resolve_names(filenames):
     return results
 
 
-def describe_platforms(platforms, include_cross_platform=False, include_details=False):
+def describe_platforms(
+    platforms: List[str],
+    include_cross_platform: bool = False,
+    include_details: bool = False,
+) -> List[Tuple[str, Any]]:
     reports = []
     for name in platforms:
         if include_details:
@@ -45,7 +52,7 @@ def describe_platforms(platforms, include_cross_platform=False, include_details=
     return reports
 
 
-def build_parser():
+def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Inspect file extension metadata and platform mappings."
     )
@@ -76,30 +83,68 @@ def build_parser():
         action="store_true",
         help="Display dataset validation warnings",
     )
+    parser.add_argument(
+        "--json",
+        action="store_true",
+        help="Output in JSON format",
+    )
     return parser
 
 
-def main(argv=None):
+def main(argv: Optional[List[str]] = None) -> None:
     parser = build_parser()
     args = parser.parse_args(argv)
 
     if not args.filenames and not args.platforms:
         parser.error("Provide at least one file name or --platform")
 
+    output_data = {}
+
     if args.filenames:
-        for name, platforms in resolve_names(args.filenames):
-            pprint({"filename": name, "platforms": platforms})
+        output_data["filenames"] = [
+            {"filename": name, "platforms": platforms}
+            for name, platforms in resolve_names(args.filenames)
+        ]
 
     if args.platforms:
-        for name, entries in describe_platforms(
-            args.platforms,
-            include_cross_platform=args.include_cross_platform,
-            include_details=args.details,
-        ):
-            pprint({"platform": name, "extensions": entries})
+        output_data["platforms"] = [
+            {"platform": name, "extensions": entries}
+            for name, entries in describe_platforms(
+                args.platforms,
+                include_cross_platform=args.include_cross_platform,
+                include_details=args.details,
+            )
+        ]
 
     if args.show_dataset_issues:
-        pprint({"dataset_issues": list(get_dataset_issues())})
+        output_data["dataset_issues"] = list(get_dataset_issues())
+
+    if args.json:
+        print(json.dumps(output_data, indent=2, ensure_ascii=False))
+    else:
+        if "filenames" in output_data:
+            for item in output_data["filenames"]:
+                platforms = (
+                    ", ".join(item["platforms"]) if item["platforms"] else "unknown"
+                )
+                print(f"{item['filename']}: {platforms}")
+
+        if "platforms" in output_data:
+            for item in output_data["platforms"]:
+                print(f"\nPlatform: {item['platform']}")
+                if not item["extensions"]:
+                    print("  (No extensions found)")
+                else:
+                    for ext in item["extensions"]:
+                        if isinstance(ext, dict):
+                            print(f"  {ext['extension']:<15} {ext['description']}")
+                        else:
+                            print(f"  {ext}")
+
+        if "dataset_issues" in output_data:
+            print("\nDataset Issues:")
+            for issue in output_data["dataset_issues"]:
+                print(f"  - {issue}")
 
 
 if __name__ == "__main__":  # pragma: no cover

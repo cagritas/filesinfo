@@ -21,3 +21,10 @@ env/
 
 # Local data cache
 filesinfo/data/external_extensions.json.backup
+
+# Testing and Linting
+.pytest_cache/
+.coverage
+.tox/
+.ruff_cache/
+

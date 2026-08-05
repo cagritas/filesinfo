@@ -7,7 +7,6 @@ import pathlib
 import sys
 import urllib.request
 
-
 MIME_DB_URL = "https://raw.githubusercontent.com/jshttp/mime-db/master/db.json"
 
 
@@ -39,7 +38,7 @@ def build_extension_index(mime_db: dict) -> dict:
             if source:
                 info["sources"].add(source)
             if "compressible" in payload:
-                info["compressible"].add(str(bool(payload["compressible"])) )
+                info["compressible"].add(str(bool(payload["compressible"])))
 
     # Convert to JSON serialisable structures
     for record in extensions.values():

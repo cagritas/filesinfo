@@ -13,15 +13,17 @@ class FileInfoExpertTests(unittest.TestCase):
     def test_multi_segment_extension_prefers_specific_match(self):
         self.assertEqual(file_info_expert("libexample.so.0"), ["linux"])
 
-    def test_unknown_extension_defaults_to_windows(self):
+    def test_unknown_extension_defaults_to_unknown(self):
         with self.assertLogs("filesinfo.core", level="WARNING") as cm:
-            self.assertEqual(file_info_expert("archive.unknownext"), ["windows"])
+            self.assertEqual(file_info_expert("archive.unknownext"), ["unknown"])
         self.assertTrue(
             any("No file metadata was found" in message for message in cm.output)
         )
 
     def test_list_extensions_for_platform(self):
-        extensions = get_extensions_for_platform("windows", include_cross_platform=False)
+        extensions = get_extensions_for_platform(
+            "windows", include_cross_platform=False
+        )
         self.assertIn(".exe", extensions)
 
     def test_platform_alias_support(self):
@@ -30,7 +32,9 @@ class FileInfoExpertTests(unittest.TestCase):
 
     def test_cross_platform_toggle(self):
         with_cross = get_extensions_for_platform("linux", include_cross_platform=True)
-        without_cross = get_extensions_for_platform("linux", include_cross_platform=False)
+        without_cross = get_extensions_for_platform(
+            "linux", include_cross_platform=False
+        )
 
         self.assertIn(".pyc", with_cross)
         self.assertNotIn(".pyc", without_cross)
