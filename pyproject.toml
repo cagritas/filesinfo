@@ -30,6 +30,8 @@ dev = [
     "black",
     "ruff",
     "pytest",
+    "build",
+    "twine",
 ]
 
 [project.scripts]

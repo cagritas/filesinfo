@@ -55,7 +55,21 @@ make install  # Installs the package with [dev] dependencies
 make test     # Runs the unittest suite
 make lint     # Runs ruff and black check
 make format   # Automatically formats the codebase with ruff and black
+make build    # Builds the .tar.gz and .whl packages
+make publish  # Uploads the built packages manually to PyPI via twine
 ```
+
+## Releasing to PyPI
+
+This project is configured with GitHub Actions to automatically publish to PyPI using Trusted Publishing. 
+
+To publish a new release:
+1. Update the `version` string in `pyproject.toml`.
+2. Commit and push your changes to GitHub.
+3. On GitHub, go to **Releases > Draft a new release**.
+4. Create a new tag (e.g. `v0.1.3`) and publish the release.
+
+The `.github/workflows/publish.yml` action will automatically build and upload the package to PyPI without needing any tokens (provided Trusted Publishing is configured in your PyPI project settings).
 
 ## Updating the Dataset
 

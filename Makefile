@@ -1,4 +1,4 @@
-.PHONY: install test lint format clean
+.PHONY: install test lint format clean build publish
 
 install:
 	pip install -e .[dev]
@@ -17,3 +17,9 @@ format:
 clean:
 	rm -rf build/ dist/ *.egg-info/ .pytest_cache/ .ruff_cache/ __pycache__/
 	find . -type d -name __pycache__ -exec rm -rf {} +
+
+build: clean
+	python3 -m build
+
+publish: build
+	python3 -m twine upload dist/*
